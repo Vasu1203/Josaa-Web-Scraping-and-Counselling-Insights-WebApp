@@ -58,8 +58,6 @@ The dashboard was built using **Streamlit** and includes:
 #### 1. Clone the Repository
 **git clone https://github.com/Vasu1203/Josaa-Web-Scraping-and-Counselling-Insights-WebApp.git**
 
-**cd josaa-counselling-insights**
-
 #### 2. Create virtual environment
 python -m venv venv
 
